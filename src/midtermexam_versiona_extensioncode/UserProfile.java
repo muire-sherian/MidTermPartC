@@ -61,7 +61,9 @@ public class UserProfile
         this.genre = genre;
     }
     
-    
+    // MidTermPartC Adding Comments in Github
+    // Question 5
+    // Comments added 2:12pm, 6/24/2022
     
     
     
